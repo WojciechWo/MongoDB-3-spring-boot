@@ -1,0 +1,10 @@
+
+spring:
+  data:
+    mongodb:
+      username: wuser
+      password: wpass
+      host: localhost
+      port: 27017
+      database: WoWoDB
+      authentication-database: admin
